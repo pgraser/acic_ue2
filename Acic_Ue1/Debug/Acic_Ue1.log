@@ -1,0 +1,17 @@
+﻿  Acic_Ue1.cpp
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(22): error C3867: 'String::c_str': non-standard syntax; use '&' to create a pointer to member
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(32): error C3867: 'String::c_str': non-standard syntax; use '&' to create a pointer to member
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\acic_ue1.cpp(18): error C3867: 'String::c_str': non-standard syntax; use '&' to create a pointer to member
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\acic_ue1.cpp(26): error C3867: 'String::c_str': non-standard syntax; use '&' to create a pointer to member
+  UE1_Graser.cpp
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(9): error C3861: 'strlen': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(12): error C3861: 'assert': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(15): error C3861: 'memcpy': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(22): error C3867: 'String::c_str': non-standard syntax; use '&' to create a pointer to member
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(22): error C3861: 'memcpy': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(32): error C3867: 'String::c_str': non-standard syntax; use '&' to create a pointer to member
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(32): error C3861: 'memcpy': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(44): error C3861: 'strlen': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(68): error C3861: 'memcpy': identifier not found
+c:\users\patrick\documents\visual studio 2017\projects\acic_ue1\acic_ue1\ue1_graser.cpp(71): error C3861: 'memcpy': identifier not found
+  Generating Code...
